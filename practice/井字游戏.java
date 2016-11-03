@@ -100,8 +100,9 @@ public class ¾®×ÖÓÎÏ· {
 			print(flag);
 			System.out.println("duel");
 			System.exit(0);
-
+ 
 		}
+		System.out.println("ĞŞ¸Ä");
 	}
 
 }
